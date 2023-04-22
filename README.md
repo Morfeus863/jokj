@@ -37,8 +37,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/ReyEndymion/ANI_MX_SCANS-MD
-> cd ANI_MX_SCANS-MD
+> git clone https://github.com/Morfeus863/jokj.git
+> cd jokj
 > yarn install 
 > npm update
 > npm start
